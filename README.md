@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML when manipulating the content of elements. The bug showcases the incorrect usage of `textContent` to replace content that should be parsed as HTML instead.  The solution shows the correct implementation using `innerHTML`.
